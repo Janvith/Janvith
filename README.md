@@ -2,7 +2,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Janvith</h1>
 Hello! I am a student pursuing Information Science and Engineering at MS Ramaiah Institute of Technology.<br>Passionate about exploring technology.<br>Looking to connect with fellow developers and learn from their experiences.<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janvith&label=Profile%20views&color=0e75b6&style=flat" alt="janvith" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janvith&label=Profile%20views&color=0e75b6&style=flat" alt="janvith" /> </p>
 - 📫 How to reach me **yadikijanvithroyal123@gmail.com**
 
 ## 🌐 Socials:
