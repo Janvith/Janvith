@@ -1,5 +1,4 @@
 
-<h1 align = "center"> 💫 About Me:<h1>
 <h1 align="center">Hi 👋, I'm Janvith</h1>
 <p align = "left">Hello! I am a student pursuing Information Science and Engineering at MS Ramaiah Institute of Technology. Passionate about exploring technology. Looking to connect with fellow developers and learn from their experiences.</p><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janvith&label=Profile%20views&color=0e75b6&style=flat" alt="janvith" /> </p>
