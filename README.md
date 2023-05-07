@@ -5,11 +5,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janvith&label=Profile%20views&color=0e75b6&style=flat" alt="janvith" /> </p>
 - 📫 How to reach me **yadikijanvithroyal123@gmail.com**
 
-<div style="text-align: center;">
-  <h2 style="display: inline-block;">🌐 Socials:</h2>
-</div>
 
 
+##🌐 Socials:
 <p align="center">
 <a href="https://linkedin.com/in/yadiki janvith royal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadiki janvith royal" height="30" width="40" /></a>
 <a href="https://fb.com/janvith yadiki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janvith yadiki" height="30" width="40" /></a>
