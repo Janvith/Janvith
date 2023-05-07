@@ -1,5 +1,6 @@
 
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Janvith</h1>
 Hello! I am a student pursuing Information Science and Engineering at MS Ramaiah Institute of Technology.<br>Passionate about exploring technology.<br>Looking to connect with fellow developers and learn from their experiences.<br>
 [![](https://visitcount.itsvg.in/api?id=Janvith&icon=5&color=0)](https://visitcount.itsvg.in)
 - 📫 How to reach me **yadikijanvithroyal123@gmail.com**
