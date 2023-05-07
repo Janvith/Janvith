@@ -6,8 +6,9 @@
 - 📫 How to reach me **yadikijanvithroyal123@gmail.com**
 
 <div style="text-align: center;">
-  <h2>🌐 Socials:</h2>
+  <h2 style="display: inline-block;">🌐 Socials:</h2>
 </div>
+
 
 <p align="center">
 <a href="https://linkedin.com/in/yadiki janvith royal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadiki janvith royal" height="30" width="40" /></a>
